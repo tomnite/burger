@@ -9,9 +9,9 @@
 
 # burger
 
-created using:
+created according to MVC architectural pattern using the following tools:
 
-Handlebars, Heroku, Javascript, MySql, Node, Sequel Pro
+Express, Handlebars, Heroku, Javascript, MySql, Node, Sequel Pro
 
 [![alt text][4.1]][4]
 [![alt text][1.1]][1]
